@@ -28,7 +28,7 @@ Contributions that violate this code will be closed without merging. Repeated vi
 
 ## Reporting
 
-If you see something that violates this code, email **hello@adhvira.com**
+If you see something that violates this code, email **pratham@adhvira.com**
 
 ---
 

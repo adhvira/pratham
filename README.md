@@ -96,7 +96,7 @@ Read **[CONTRIBUTING.md](./CONTRIBUTING.md)** to get started. It takes 10 minute
 
 Pratham is an initiative by [Adhvira Private Limited](https://adhvira.com) — a Hyderabad-based software company building bold products and community initiatives.
 
-**hello@adhvira.com** · [adhvira.com](https://adhvira.com) · [@adhvirahq](https://instagram.com/adhvirahq)
+**pratham@adhvira.com** · [adhvira.com](https://adhvira.com) · [@adhvirahq](https://instagram.com/adhvirahq)
 
 ---
 

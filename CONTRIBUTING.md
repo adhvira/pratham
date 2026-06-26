@@ -135,7 +135,7 @@ Open a PR fixing it, or [open an issue](https://github.com/adhvira/pratham/issue
 
 ## Questions?
 
-Open an issue or email **hello@adhvira.com**
+Open an issue or email **pratham@adhvira.com**
 
 ---
 
